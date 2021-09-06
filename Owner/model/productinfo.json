@@ -1,0 +1,50 @@
+[
+    {
+        "ProductName": "Napa",
+        "Quantity": "100",
+        "Buyprice": "1000 tk",
+        "Sellprice": "1200tk"
+    },
+    {
+        "ProductName": "napa",
+        "Quantity": "12",
+        "Buyprice": "1000 tk",
+        "Sellprice": "200tk"
+    },
+    {
+        "ProductName": "napa",
+        "Quantity": "10000",
+        "Buyprice": "122220tk",
+        "Sellprice": "122220tk"
+    },
+    {
+        "ProductName": "abeties",
+        "Quantity": "10000",
+        "Buyprice": "11111111",
+        "Sellprice": "1111111111"
+    },
+    {
+        "ProductName": "aa",
+        "Quantity": "100",
+        "Buyprice": "1000 tk",
+        "Sellprice": "1200tk"
+    },
+    {
+        "ProductName": "abeties",
+        "Quantity": "100",
+        "Buyprice": "122220tk",
+        "Sellprice": "1200tk"
+    },
+    {
+        "ProductName": "abeties",
+        "Quantity": "100",
+        "Buyprice": "122220tk",
+        "Sellprice": "1200tk"
+    },
+    {
+        "ProductName": "napa",
+        "Quantity": "100",
+        "Buyprice": "122220tk",
+        "Sellprice": "1300tk"
+    }
+]
